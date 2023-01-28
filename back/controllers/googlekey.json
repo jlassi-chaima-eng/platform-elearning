@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alpine-biplane-359014",
+  "private_key_id": "a2d5d30f6b1870639c9ebfc499e4ff953f4cd33a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWlK1efOb7Cbwv\nEHUjngZC8XizqPLgfiLO5sxAc9dbcXXB7lKKuHgvhfPzpAEdIZ+Q9Beh9Nm27Kot\nfhrA8zXNZpJz4mFxEgqIR0ziCEf7+8EL2zi1YCidH4HnrOPaAnFE4SJQ56tS+sM2\nf0cvaBsmRps5l+3uyFH4/4u2z9xLNcIuEc8LZq5s7YOEn3UckgzVgjS5lvFtq/u4\noDe3iGKKHj/5pR0IfPbWCjv+4KvHkXPtW573PdQQwoAQ/hgt835WEi863tcZMnaq\nJnvMcltj23iMk6BaLLvRZiAIEoJb8jxcKx4Yv+/MGp29OzE8JhnjzdkBxVf0DeNZ\nAaoNqRy7AgMBAAECggEAQQTNn0D7U2YutXu7uLdhKMKvRZQr2zdbvE733tSmJrvl\nBunrBi8E5jBG1+r2+CcuiR58ndflshCaoq4Sy0G494nUrukO/g22MoXm8qp0up9I\nCeCMqfRtVPrn0qtabyYi1oUHljuSRHA2nm9yw0uGfY57M/EgMbyZeJSPNU6nZmmU\nISTJa9MiCCMYxITB/n64IaXg/QFIRhMqBAcqU/+Q+s1vlvCNEh5hAAcuAzIvf1QL\n7NFVFzgRnDLY/1CEGGL1H3iCbscMDBYeWMlFlh+dwORiSUiz2M0wVHa2rrY3e6/K\nj6rs9j/7jXLbDbUiJ0j7PkVwJZCpIyWmhQ1CjAhL8QKBgQDQwfdgrBBB7GZSnTcU\nZ+9aF6E/Zjyco/BN9JO8GHd86athX5BLnMKIW5NmZpriHZN1MdO3hEOJ7s1fi/Fl\nPtbNY0uXQ8O/vb4/XNGKa6tIOTi6Pn+y2YHqS8ZflyHCZO4rFasM531iYIBHZCEI\nRUz7h+VzWsvloZyhi3pULAcrzwKBgQC4qFO6H3a4rksmV0zRNzBzz3cW6qU1ClSs\nc8uB1bnzVojQH7vxw+tTxOp3ojjYSaZ3lkQE+N/m+tFh2kXTCozDvkXTVdilTkx6\nw2SgU4ElXRilUkQ56hrSqjwxXaB8pCNCAVES1AkXIefhR7/JNiVSeVt3Os5liCwE\nfzSUvk6fVQKBgQDBh1AiWuEnfFTPudfaHxCR4N4nvEvsmz6nxlk/Qx9iue2bc9B9\niHH/n4XipLRpcynEt9CijQdf0/ao4T+EsODJv4fQT44lL24zp4TKYk6DwiiI4G/a\nCjKaVm0tKRqu8Iqrfob4i5J9pSDHDlhhJn3boXxhmIb19wER8hASAE8VmQKBgCeH\nOO0VwSdFgCbD91it1Lxlw9tu/VB+VqPX4c94Peb+Nik/Mc9OHjj/ZSWY30xFb9IX\no5Xg5KUgOeQVgm7ryjg4qd/Ud5zjRvHck9TSK0ohRJ5XHu261GUWNe5nWWx1Amsl\ntwIty4hdJLMP1dkvswuVmOPL/dS0Mp//zvSsTE5FAoGAEM+ci++PBUtvIltSWBjA\nJL+5n21b7h83YUiYpaftPvXO//5HBiAMZ9V4uqXPCShYY01yNXTP2NLokNehl+eY\nQElSTAUFI4eMC9/Jg0OJmhdVHymBPmHBtdaV6fk/k8vIGmVtyfkecLnC/uoR7UYH\nJvMB9sl3CJRsIlDAWTgopRM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledrive@alpine-biplane-359014.iam.gserviceaccount.com",
+  "client_id": "108857904711668936119",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledrive%40alpine-biplane-359014.iam.gserviceaccount.com"
+}
